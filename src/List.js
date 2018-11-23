@@ -19,7 +19,7 @@ const styles = theme => ({
 
 class CheckboxList extends React.Component {
   state = {
-    checked: [0],
+    checked: [-1],
   };
 
   handleToggle = value => () => {
