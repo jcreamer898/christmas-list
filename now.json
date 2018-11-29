@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "christmas-list",
+  "alias": "creamer-christmas-list",
   "builds": [
       { "src": "package.json", "use": "@now/static-build" }
   ],
