@@ -12,16 +12,8 @@
     "url": "https://www.blackriflecoffee.com/collections/hoodies/products/zip-up-hoodie-brcc-logo-grey"
   },
   {
-    "name": "August Smart Lock",
-    "url": "https://www.amazon.com/August-Smart-Lock-3rd-technology/dp/B0752XNC8M/ref=sr_1_8?s=hardware&ie=UTF8&qid=1545168441&sr=1-8&keywords=smart+lock"
-  },
-  {
     "name": "Civilization VI",
     "url": "https://www.amazon.com/Sid-Meiers-Civilization-VI-Nintendo-Switch/dp/B07HH8ZSMM/ref=sr_1_1?ie=UTF8&qid=1545168752&sr=8-1&keywords=switch+civilization+6"
-  },
-  {
-    "name": "Mario Party",
-    "url": "https://www.amazon.com/Super-Mario-Party-Nintendo-Switch/dp/B07DJY81FP/ref=sr_1_3?ie=UTF8&qid=1545168668&sr=8-3&keywords=switch%2Bmario%2Bparty&th=1"
   },
   {
     "name": "Hue Bulb",
@@ -30,6 +22,14 @@
   {
     "name": "Hue Bulb 4-Pack",
     "url": "https://www.amazon.com/gp/product/B073SSK6P8/ref=ox_sc_saved_title_4?smid=ATVPDKIKX0DER&psc=1"
+  },
+  {
+    "name": "Switch JoyCon Controller",
+    "url": "https://www.amazon.com/gp/product/B01N6QJ58Y/ref=ox_sc_saved_title_4?smid=ATVPDKIKX0DER&th=1"
+  },
+  {
+    "name": "Mario Party",
+    "url": "https://www.amazon.com/Super-Mario-Party-Nintendo-Switch/dp/B07DJY81FP/ref=sr_1_3?ie=UTF8&qid=1545168668&sr=8-3&keywords=switch%2Bmario%2Bparty&th=1"
   },
   {
     "name": "Red Dead Redemption Code",
@@ -60,5 +60,8 @@
   {
     "name": "Black Rifle Coffee storage",
     "url": "https://www.blackriflecoffee.com/collections/gear/products/brcc-company-air-tight-container"
+  }, {
+    "name": "August Smart Lock",
+    "url": "https://www.amazon.com/August-Smart-Lock-3rd-technology/dp/B0752XNC8M/ref=sr_1_8?s=hardware&ie=UTF8&qid=1545168441&sr=1-8&keywords=smart+lock"
   }
 ]
